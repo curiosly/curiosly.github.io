@@ -1,16 +1,16 @@
 body {
-    background: #f5d9d5;
+    background: #CDA34F;
     font-family: "Nunito", sans-serif;
 }
 
 .blurb h2 {
-   color: #EA1C2C;
+   color: #636B46;
    font-weight: 100;
    font-size: 2.5rem;
 }
 
 .blurb p {
-    color: #f498b8;
+    color: #E9E7DA;
     font-weight: 100;
     font-size: 1.125rem;
     line-height: 2;
